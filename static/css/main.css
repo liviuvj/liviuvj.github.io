@@ -22,7 +22,12 @@
 	    transform: translate(-50%, -50%);
 }
 
-@media () {
+@media (max-width: 767px) {
+	
+    .fullscreen-bg {
+        background: url('/static/media/bg_img.jpg') center center / cover no-repeat;
+    }
+	
     .fullscreen-bg__video {
         display: none;
     }
