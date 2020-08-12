@@ -22,7 +22,7 @@
 	    transform: translate(-50%, -50%);
 }
 
-@media (max-width: 767px) {
+@media () {
 	
     .fullscreen-bg {
         background: url('static/media/bg_img.jpg') center center / cover no-repeat;
